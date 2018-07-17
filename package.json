@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "description": "Create an API, Database, CRUD app which lets users set their top 10 games.\r Users should be allowed to add a game, and list their rank.",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

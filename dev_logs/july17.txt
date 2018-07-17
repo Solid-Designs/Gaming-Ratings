@@ -1,0 +1,5 @@
+Today I created the external routing. I am looking forward to creating this project,
+but I am a bit unsure as to how I am going to go about certain things.
+I have never made users before, nor have I used an API like this.
+Thankfully, the API has some amazing documentation, so I feel like things should
+go smoothly. 
